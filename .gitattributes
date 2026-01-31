@@ -1,0 +1,4 @@
+*.inc linguist-language=Assembly
+*.asm linguist-language=Assembly
+*.hex linguist-generated=true
+*.obj linguist-generated=true
